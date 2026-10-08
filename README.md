@@ -119,7 +119,7 @@ A secure system to manage donors, hospitals, and blood availability, with donor 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/bantroth-suhasini-193062318">
+  <a href="https://www.linkedin.com/in/bantroth-suhasini-193062318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:2501600007mca@gmail.com">
