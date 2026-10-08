@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [FinTrack – Finance Dashboard](https://github.com/Suhasini-Bantroth/Finance_dashboard)
+### 📊 [FinTrack – Finance Dashboard](https://github.com/Suhasini-Bantroth/Finance-Dashboard)
 `JavaScript` `Tailwind CSS` `Chart.js`
 
 A single-file finance dashboard with animated summary cards, a 6-month balance trend chart, and an interactive spending-breakdown doughnut chart.
@@ -68,7 +68,7 @@ A single-file finance dashboard with animated summary cards, a 6-month balance t
 - CSV export, dark/light theme, and localStorage persistence
 - Dynamic insights: top spending category, savings rate, average daily spend, largest expense
 
-### 🕵️ [Insider Threat Behavior Analyzer](https://github.com/Suhasini-Bantroth/Insider-Threat-Analyzer)
+### 🕵️ [Insider Threat Behavior Analyzer](https://github.com/Suhasini-Bantroth/Threat-Shield)
 `Python` `Machine Learning` `Security Log Analysis` `MITRE ATT&CK`
 
 An AI-driven tool that detects suspicious user activity by analyzing authentication, access, and system logs.
