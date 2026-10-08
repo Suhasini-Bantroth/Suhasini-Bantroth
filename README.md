@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PositiveThinker21&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/PositiveThinker21?label=Followers&style=flat&color=36BCF7" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Suhasini-Bantroth&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Suhasini-Bantroth?label=Followers&style=flat&color=36BCF7" alt="followers" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [FinTrack – Finance Dashboard](https://github.com/PositiveThinker21/Finance_dashboard)
+### 📊 [FinTrack – Finance Dashboard](https://github.com/Suhasini-Bantroth/Finance_dashboard)
 `JavaScript` `Tailwind CSS` `Chart.js`
 
 A single-file finance dashboard with animated summary cards, a 6-month balance trend chart, and an interactive spending-breakdown doughnut chart.
@@ -65,7 +65,7 @@ A single-file finance dashboard with animated summary cards, a 6-month balance t
 - CSV export, dark/light theme, and localStorage persistence
 - Dynamic insights: top spending category, savings rate, average daily spend, largest expense
 
-### 🕵️ Insider Threat Behavior Analyzer
+### 🕵️ [Insider Threat Behavior Analyzer](https://github.com/Suhasini-Bantroth/Insider-Threat-Analyzer)
 `Python` `Machine Learning` `Security Log Analysis` `MITRE ATT&CK`
 
 An AI-driven tool that detects suspicious user activity by analyzing authentication, access, and system logs.
@@ -74,7 +74,7 @@ An AI-driven tool that detects suspicious user activity by analyzing authenticat
 - Security dashboard with risk scores, anomalies, and threat patterns
 - Automated risk assessments to support early detection and incident response
 
-### 🍯 AI Adaptive Honeypot
+### 🍯 [Sentinel Honeypot](https://github.com/Suhasini-Bantroth/Sentinel-Honeypot)
 `Python` `AI/ML` `Network Security` `Threat Intelligence`
 
 An AI-powered honeypot that attracts, monitors, and analyzes malicious activity in a controlled environment.
@@ -107,8 +107,8 @@ A secure system to manage donors, hospitals, and blood availability, with donor 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PositiveThinker21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PositiveThinker21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suhasini-Bantroth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhasini-Bantroth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
 ---
@@ -116,10 +116,10 @@ A secure system to manage donors, hospitals, and blood availability, with donor 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/bantroth-suhasini-193062318">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:suhasiniwork01@gmail.com">
+  <a href="mailto:2501600007mca@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
