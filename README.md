@@ -77,7 +77,7 @@ An AI-driven tool that detects suspicious user activity by analyzing authenticat
 - Security dashboard with risk scores, anomalies, and threat patterns
 - Automated risk assessments to support early detection and incident response
 
-### 🍯 [Sentinel Honeypot](https://github.com/Suhasini-Bantroth/Sentinel-Honeypot)
+### 🍯 [Sentinel Honeypot](https://github.com/Suhasini-Bantroth/Sentinal-Honeypot)
 `Python` `AI/ML` `Network Security` `Threat Intelligence`
 
 An AI-powered honeypot that attracts, monitors, and analyzes malicious activity in a controlled environment.
